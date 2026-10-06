@@ -59,7 +59,7 @@ This project analyzes a dataset of 200 employees to find out which factors actua
 
 ## Repository Structure
 ├── README.md
-├── employee_analysis.ipynb
+├── employee_analysis.py
 ├── EMPLOYEE.csv
 ├── EMPLOYEE_cleaned.csv
 └── charts/
